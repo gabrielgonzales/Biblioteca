@@ -1,7 +1,5 @@
 # Biblioteca
 
-Código desenvolvido por:<br>
-- Caio Cerquiaro<br>
+Código desenvolvido por:<br>>
 - Gabriel Fernandes Gonzales<br>
-- Gustavo Postali
 
